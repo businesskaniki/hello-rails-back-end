@@ -32,7 +32,7 @@
 
 # 📖 Hello-Rails-Back-End <a name="about-project"></a>
 
-**Hello-Rails-Back-End** is a backend api that displays a random greeting and is connected with another front-end react app
+**Hello-Rails-Back-End** is a backend api used by [hello-react-front-end](https://github.com/sharon-odhiambo/hello-react-front-end) to display a random greeting in the database
 
 ## 🛠 Built With <a name="built-with"></a>
 
